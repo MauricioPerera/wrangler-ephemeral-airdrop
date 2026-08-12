@@ -8,7 +8,7 @@
 
 Subís un archivo, te da un **QR y un link**, se lo pasás a alguien y lo descarga — sin que esa persona haya estado conectada antes ni tenga que instalar nada. Corre sobre una **cuenta temporal de Cloudflare**, sin login, y se **autodestruye sola** en ~1 hora.
 
-Hermano de [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-chat/)) y [wrangler-ephemeral-whiteboard](https://github.com/MauricioPerera/wrangler-ephemeral-whiteboard) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-whiteboard/)) — misma cuenta temporal, mismo Durable Object, pero para pasar un archivo puntual.
+Hermano de [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-chat/)) y [wrangler-ephemeral-whiteboard](https://github.com/MauricioPerera/wrangler-ephemeral-whiteboard) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-whiteboard/)) y de [wrangler-ephemeral-sandbox](https://github.com/MauricioPerera/wrangler-ephemeral-sandbox) — misma cuenta temporal, mismo Durable Object, pero para pasar un archivo puntual o dejar que un agente ejecute JavaScript aislado.
 
 ## Cómo funciona
 
