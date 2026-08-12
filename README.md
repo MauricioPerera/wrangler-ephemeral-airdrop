@@ -4,9 +4,11 @@
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/MauricioPerera/wrangler-ephemeral-airdrop)
 
+🌐 **[Landing page](https://mauricioperera.github.io/wrangler-ephemeral-airdrop/)** — presentación visual del proyecto, disponible en español / English / português.
+
 Subís un archivo, te da un **QR y un link**, se lo pasás a alguien y lo descarga — sin que esa persona haya estado conectada antes ni tenga que instalar nada. Corre sobre una **cuenta temporal de Cloudflare**, sin login, y se **autodestruye sola** en ~1 hora.
 
-Hermano de [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat) y [wrangler-ephemeral-whiteboard](https://github.com/MauricioPerera/wrangler-ephemeral-whiteboard) — misma cuenta temporal, mismo Durable Object, pero para pasar un archivo puntual.
+Hermano de [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-chat/)) y [wrangler-ephemeral-whiteboard](https://github.com/MauricioPerera/wrangler-ephemeral-whiteboard) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-whiteboard/)) — misma cuenta temporal, mismo Durable Object, pero para pasar un archivo puntual.
 
 ## Cómo funciona
 

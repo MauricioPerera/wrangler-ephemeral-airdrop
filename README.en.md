@@ -4,9 +4,11 @@
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/MauricioPerera/wrangler-ephemeral-airdrop)
 
+🌐 **[Landing page](https://mauricioperera.github.io/wrangler-ephemeral-airdrop/)** — visual presentation of the project, available in español / English / português.
+
 Upload a file, get a **QR code and a link**, send it to someone, and they download it — without ever having been connected before, no app to install. Runs on a **Cloudflare temporary account**, no login, and **self-destructs** in ~1 hour.
 
-Sibling of [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat) and [wrangler-ephemeral-whiteboard](https://github.com/MauricioPerera/wrangler-ephemeral-whiteboard) — same temporary account, same Durable Object idea, but for passing along a one-off file.
+Sibling of [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-chat/)) and [wrangler-ephemeral-whiteboard](https://github.com/MauricioPerera/wrangler-ephemeral-whiteboard) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-whiteboard/)) — same temporary account, same Durable Object idea, but for passing along a one-off file.
 
 ## How it works
 
