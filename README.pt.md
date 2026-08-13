@@ -10,6 +10,8 @@ Você sobe um arquivo, recebe um **QR code e um link**, manda para alguém e ess
 
 Irmão de [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-chat/)) e [wrangler-ephemeral-whiteboard](https://github.com/MauricioPerera/wrangler-ephemeral-whiteboard) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-whiteboard/)) — mesma conta temporária, mesma ideia de Durable Object, mas para passar um arquivo pontual.
 
+Também é irmão de [wrangler-ephemeral-webhook](https://github.com/MauricioPerera/wrangler-ephemeral-webhook) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-webhook/)) — para inspecionar webhooks recebidos ao vivo.
+
 ## Como funciona
 
 - `wrangler deploy --temporary` cria uma conta temporária da Cloudflare (sem login) e implanta o Worker.
