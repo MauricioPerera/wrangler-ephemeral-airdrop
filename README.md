@@ -10,6 +10,8 @@ Subís un archivo, te da un **QR y un link**, se lo pasás a alguien y lo descar
 
 Hermano de [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-chat/)) y [wrangler-ephemeral-whiteboard](https://github.com/MauricioPerera/wrangler-ephemeral-whiteboard) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-whiteboard/)) y de [wrangler-ephemeral-sandbox](https://github.com/MauricioPerera/wrangler-ephemeral-sandbox) ([landing page](https://mauricioperera.github.io/wrangler-ephemeral-sandbox/)) — misma cuenta temporal, mismo Durable Object, pero para pasar un archivo puntual o dejar que un agente ejecute JavaScript aislado.
 
+¿Querés chat + pizarra + airdrop juntos, en un solo deploy? Mirá [wrangler-ephemeral-suite](https://github.com/MauricioPerera/wrangler-ephemeral-suite).
+
 ## Cómo funciona
 
 - `wrangler deploy --temporary` crea una cuenta de Cloudflare temporal (sin login) y despliega el Worker.
