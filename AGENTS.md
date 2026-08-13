@@ -2,6 +2,8 @@
 
 Mismo mecanismo que [wrangler-ephemeral-chat](https://github.com/MauricioPerera/wrangler-ephemeral-chat/blob/master/AGENTS.md). Esta guía cubre lo específico de este proyecto.
 
+Si lo que el usuario necesita no es pasar un archivo sino inspeccionar webhooks entrantes, usá el repo hermano [wrangler-ephemeral-webhook](https://github.com/MauricioPerera/wrangler-ephemeral-webhook/blob/master/AGENTS.md).
+
 ## Paso 1 — Confirmar que NO hay sesión activa
 
 ```bash
